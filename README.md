@@ -9,12 +9,12 @@ Platform Google Suara Teks Berbagai Bahasa
 ------ 
 Ada beberapa situs suara Google yang kualitasnya sangat bagus dan berikut ulasannya:
 
-1. [**Voice of Text**](https://www.voiceoftext.com/p/sound-of-text-wa.html)
+1. [**Sound of text ID**]
 
 Bagi kamu yang ingin membuat suara Google dengan bahasa daerah bisa menggunakan Voice of Text. Pada situs ini kamu bisa membuat suara Google Jawa dan Sunda dan berikut tutorial membuatnya:
 
 - Langkah 1: Kamu dapat memulai dengan membuka aplikasi browser di smartphone. 
-- Langkah 2: Pada halaman pencarian, kamu bisa mengakses situsnya di https://www.voiceoftext.com/
+- Langkah 2: Pada halaman pencarian, kamu bisa mengakses situsnya di [sound of text id](https://id.technolati.com/sound-of-text/)
 - Langkah 3: Pada halaman teks, ketikkanlah kata-kata berbahasa Jawa. 
 - Langkah 4: Di kategori voice, kamu bisa memilih bahasa Javanese Japan atau Indonesia
 - Langkah 5: Proses convert teks ke suara bisa dengan mengklik submit. 
@@ -23,7 +23,7 @@ Bagi kamu yang ingin membuat suara Google dengan bahasa daerah bisa menggunakan 
 
 Selain bahasa Jawa juga ada beberapa pilihan lain seperti bahasa asing dan Indonesia. Hanya saja pada situs ini untuk akun free dibatasi 200 karakter saja setiap kali membuat suara. Jika kamu ingin karakter yang lebih maka bisa upgrade ke premium dengan biaya 5$ per bulan. 
 
-2. [**Freetts**](https://www.sebuahutas.com/freetts-com-nada-dering-whatsapp/)
+2. [**Freetts**]
 
 Jika kamu ingin situs dengan karakter terbanyak dan gratis maka bisa memilih Freetts. Situs ini layak dipilih jika ingin membuat voice over atau lainnya dan berikut tutorial cara buatnya:
 
@@ -41,4 +41,4 @@ Dengan situs Google suara teks di atas setidaknya ada pilihan apakah ingin suara
 
 **Sumber:**
 
-- https://karinov.co.id/download-suara-google-translate/
+- https://id.technolati.com
